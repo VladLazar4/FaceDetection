@@ -1,0 +1,10 @@
+attrs
+cmake
+conda
+Cython
+dlib
+numpy
+numpydoc
+opencv-python
+Pillow
+PyQt5
